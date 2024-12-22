@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bio-data</title>
+<link rel="stylesheet" href="styles.css">
+<script src="script.js" defer></script>
+</head>
+<body>
+<!-- Navigation -->
+<nav class="navbar">
+<div class="logo">[Pranam P M]</div>
+<ul class="nav-links">
+<li><a href="index.html">Home</a></li>
+<li><a href="resume.html">Resume</a></li>
+<li class="active"><a href="biodata.html">Bio-data</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+<button class="mode-toggle">
+</nav>
+<!-- Bio-data Section -->
+<section class="content-section">
+<div class="container">
+<h2>Bio-data</h2>
+<div class="bio-card">
+</button>
+<ul>
+<li><strong>Name:</strong> [Pranam P M]</li>
+<li><strong>Age:</strong> [21]</li>
+<li><strong>Father Name:</strong> [Manjunath S K]</li>
+<li><strong>Mother Name:</strong> [Pavithra H C]</li>
+<li><strong>Email:</strong> [pranam@gmail.com]</li>
+<li><strong>School:</strong> [VAGDEVI SCHOOL]</li>
+<li><strong>Pre-University College:</strong> [VAGDEVIP U 
+COLLEGE]</li>
+<li><strong>Degree College:</strong> [SJB INSTITUTE OF
+TECHNOLOGY]</li>
+<li><strong>Course:</strong> [COMPUTER SCIENCE AND 
+ENGINEERING]</li>
+<li><strong>Location:</strong> [Davanagere-577213]</li>
+<li><strong>Hobbies:</strong> Coding, Gaming, Music, Cricket, Travelling</li>
+</ul>
+</div>
+</div>
+</section>
+<footer>
+<p>&copy; 2024 [Pranam P M]. All rights reserved.</p>
+</footer>
+</body>
+</html>
